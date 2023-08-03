@@ -14,7 +14,7 @@ class Hangman:
     guess_archieve = ['Guesses:']
     lives = ['Lives(8):']
     end_state = False
-    word_list = ["family"]
+    word_list = ["family","fan","star","bucket","confession","engineering","instruction","dhvani","bike","flu","challenge","astonished","accountant","respect","college"]
     hangman_art = [
         "   +---+\n   |   |\n       |\n       |\n       |\n       |\n=========",
         "   +---+\n   |   |\n   O   |\n       |\n       |\n       |\n=========",
